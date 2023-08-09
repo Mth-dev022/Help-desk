@@ -1,0 +1,13 @@
+
+1#Bateria ruim#Impressora#dddd
+1#Bateria ruim#Impressora#dddd
+1#Bateria ruim#Impressora#KKK
+4#Teste @EU#Hardware#Teste.com
+1#Impressora#Hardware#Impressora parou de imprimir
+1##Criação Usuário#Aa
+1##Criação Usuário#
+1##Criação Usuário#
+1##Criação Usuário#
+1##Criação Usuário#
+1##Criação Usuário#
+1#aa#Software#d
