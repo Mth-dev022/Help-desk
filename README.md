@@ -1,19 +1,19 @@
 # Help-desk
 <p align="center">
  
-<img width="500px" height="400px" src="imagens/telaLogin.png">
+<img width="400px" height="400px" src="imagens/telaLogin.png">
+<img width="400px" height="400px" src="imagens/menu.png">
+</p>
 
-<img width="500px" height="400px" src="imagens/menu.png">
-
-<img width="500px" height="400px" src="imagens/abrirChamado.png">
-
-<img width="500px" height="400px" src="imagens/consulta.png">
+<p align="center">
+ 
+<img width="400px" height="400px" src="imagens/abrirChamado.png">
+<img width="400px" height="400px" src="imagens/consulta.png">
+</p>
 
  <h1> 📝 Descrição do projeto </h1>
-
- </p>
  
-  <p>  software projetado para gerenciar e automatizar o suporte e atendimento ao cliente ou usuários de um produto, serviço ou sistema. Ele oferece uma plataforma centralizada para receber, resolver e monitorar solicitações de suporte, perguntas, problemas técnicos, consultas e outros tipos de interações relacionadas ao suporte.
+ <p>  software projetado para gerenciar e automatizar o suporte e atendimento ao cliente ou usuários de um produto, serviço ou sistema. Ele oferece uma plataforma centralizada para receber, resolver e monitorar solicitações de suporte, perguntas, problemas técnicos, consultas e outros tipos de interações relacionadas ao suporte.
        </p>
 
  ## Funcionalidades
