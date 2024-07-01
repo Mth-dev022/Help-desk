@@ -8,7 +8,7 @@
 <p align="center">
  
 <img width="400px" height="400px" src="imagens/abrirChamado.png">
-<img width="400px" height="400px" src="imagens/consulta.png">
+<img width="400px" height="400px" src="imagens/consulta.png"
 </p>
 
  <h1> 📝 Descrição do projeto </h1>
