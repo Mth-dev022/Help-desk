@@ -20,7 +20,7 @@
 
 :heavy_check_mark: Registro de Solicitações: Os usuários podem enviar suas solicitações de suporte por meio do sistema.
 
-:heavy_check_mark: Triagem: As solicitações são organizadas em uma fila de suporte.
+:heavy_check_mark: Triagem: As solicitações são organizadas em uma fila de suporte
 
 :heavy_check_mark: Controle: Somente usuários registrados como "Administrador" podem ter o acesso a todos os chamados registrados. Usuários sem esse registro só poderão ver seus própios chamados.
 
