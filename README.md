@@ -13,7 +13,7 @@
 
  <h1> 📝 Descrição do projeto </h1>
  
- <p>  software projetado para gerenciar e automatizar o suporte e atendimento ao cliente ou usuários de um produto, serviço ou sistema. Ele oferece uma plataforma centralizada para receber, resolver e monitorar solicitações de suporte, perguntas, problemas técnicos, consultas e outros tipos de interações relacionadas ao suporte
+ <p>  software projetado para gerenciar e automatizar o suporte e atendimento ao cliente ou usuários de um produto, serviço ou sistema. Ele oferece uma plataforma centralizada para receber, resolver e monitorar solicitações de suporte, perguntas, problemas técnicos, consultas e outros tipos de interações relacionadas ao suporte.
        </p>
 
  ## Funcionalidades
